@@ -1,0 +1,32 @@
+.check{
+    cursor: pointer;
+    appearance: none;
+    background-color: #394e64;
+    background-position: center;
+    border-radius: 50%;
+    position: relative;
+    box-sizing: content-box;
+    width: 24px;
+    height: 24px;
+    transition: all 0.1s linear;
+    overflow: visible;
+}
+.check:checked{
+    background:  #7b93a6 center no-repeat;
+}
+.anc{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #394e64;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.fas{
+    padding-top: 5px;
+    padding-left: 1px;
+}
+.display{
+    display: none;
+}

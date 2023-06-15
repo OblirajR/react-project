@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.4.4",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "apexcharts": "^3.41.0",
+    "axios": "^1.4.0",
+    "next": "^13.4.5-canary.12",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-modal": "^3.16.1"
   }
 }

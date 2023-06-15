@@ -1,0 +1,27 @@
+.collapse{
+    height: 100%;
+    display: flex;
+    /* position: relative;
+    right: 200px; */
+}
+.navbar{
+    display: flex;
+    /* flex-direction: column; */
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    list-style: none;
+}
+.navitem{
+    text-align: center;
+    margin: 30px 30px;
+}
+.span{
+    color: white;
+}
+.fa{
+    height: 25px;
+}
+.active{
+    background-color: #f5a623;
+}
